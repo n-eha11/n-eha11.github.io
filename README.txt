@@ -1,43 +1,33 @@
-
-TITLE: 
-Multipurpose - 100% Fully Responsive Multipurpose Website Template
-
-AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
-
-Website: https://freehtml5.co/
-Twitter: https://twitter.com/fh5co
-Facebook: https://facebook.com/fh5co
+Helios by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-CREDITS:
+This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+to take advantage of larger (well, wider) displays while still being capable of gracefully
+scaling down to fit all manner of smaller ones.
 
-Bootstrap
-http://getbootstrap.com/
+Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
+deviantART. Check out his portfolio here:
 
-Google Fonts
-https://www.google.com/fonts/
+http://md.photomerchant.net/
 
-jQuery
-http://jquery.com/
+(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
+and/or use any of Michaels's work without his explicit permission!)
 
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
+AJ
+aj@lkn.io | @ajlkn
 
-Loaders
-https://connoratherton.com/loaders
 
-AOS
-https://michalsnik.github.io/aos/
+Credits:
 
-Swiper
-http://www.idangero.us/swiper/
+	Demo Images:
+		Michael Domaradzki (md.photomerchant.net)
 
-lightgallery
-http://sachinchoolur.github.io/lightGallery/
+	Icons:
+		Font Awesome (fontawesome.io)
 
-Demo Images:
-https://unsplash.com
-https://pexels.com
-https://lorempixel.com
-
+	Other:
+		jQuery (jquery.com)
+		Scrollex (github.com/ajlkn/jquery.scrollex)
+		Responsive Tools (github.com/ajlkn/responsive-tools)
